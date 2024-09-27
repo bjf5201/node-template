@@ -1,0 +1,2 @@
+# node-template
+JavaScript template
